@@ -2,6 +2,8 @@
 
 This is a AI that uses OPEN AI API and Chat GPT to return answers.
 
+* To clone/download the project: npm install
+
 * To run: npm run dev
 
 * Get API key from platform.openai.com
